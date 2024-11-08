@@ -20,9 +20,5 @@ variable "bool1" {
 variable "str1" {
   default = "RAJA RAVIVARMA"
 }
-Do not take this as reference below
-# there are types of variables
-1.key-value
-2.key-values #list
-3.key-with multiple keys and values #map
+
 
