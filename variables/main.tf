@@ -21,8 +21,4 @@ variable "str1" {
   default = "RAJA RAVIVARMA"
 }
 
-# there are types of variables
-1.key-value
-2.key-values #list
-3.key-with multiple keys and values #map
 
